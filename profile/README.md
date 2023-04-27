@@ -1,6 +1,6 @@
 ## Writing - newsletter platform
 
-Plaubb is a writing and publishing platform
+Vivi is a writing and publishing platform
 
 https://substack.com/
 
